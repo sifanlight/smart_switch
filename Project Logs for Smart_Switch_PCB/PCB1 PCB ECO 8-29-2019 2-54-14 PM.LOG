@@ -1,0 +1,15 @@
+Added Component: Designator=RELAY1(Relay)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RELAY2(Relay)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC5 Pin=RELAY1-1
+Added Pin To Net: NetName=C1 Pin=RELAY1-2
+Added Pin To Net: NetName=PHASE Pin=RELAY1-3
+Added Pin To Net: NetName=LAMP1 Pin=RELAY1-4
+Added Pin To Net: NetName=C2 Pin=RELAY2-1
+Added Pin To Net: NetName=VCC5 Pin=RELAY2-2
+Added Pin To Net: NetName=PHASE Pin=RELAY2-3
+Added Pin To Net: NetName=LAMP2 Pin=RELAY2-4
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY1 Relay
+Added Member To Class: ClassName=Sheet1 Member=Component RELAY2 Relay
+Added Room: Name=Sheet1

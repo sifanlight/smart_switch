@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NULL Pin=POWER-1
+Added Pin To Net: NetName=LAMP1 Pin=POWER-2
+Added Pin To Net: NetName=LAMP2 Pin=POWER-3
+Added Pin To Net: NetName=PHASE Pin=POWER-4
+Added Room: Name=Sheet1

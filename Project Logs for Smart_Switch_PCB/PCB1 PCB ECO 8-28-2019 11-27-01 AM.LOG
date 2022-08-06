@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NULL Pin=AC/DC-1
+Removed Pin From Net: NetName=PHASE Pin=AC/DC-2
+Removed Pin From Net: NetName=VCC5 Pin=AC/DC-3
+Removed Pin From Net: NetName=GND Pin=AC/DC-4
+Added Component: Designator=AC/DC(HiLink)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NULL Pin=AC/DC-1
+Added Pin To Net: NetName=PHASE Pin=AC/DC-2
+Added Pin To Net: NetName=VCC5 Pin=AC/DC-3
+Added Pin To Net: NetName=GND Pin=AC/DC-4
+Added Room: Name=Sheet1
